@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+launch/sim.launch.py
+mine_bot_description/__init__.py
+mine_bot_description.egg-info/PKG-INFO
+mine_bot_description.egg-info/SOURCES.txt
+mine_bot_description.egg-info/dependency_links.txt
+mine_bot_description.egg-info/requires.txt
+mine_bot_description.egg-info/top_level.txt
+mine_bot_description.egg-info/zip-safe
+resource/mine_bot_description
+urdf/mine_bot.urdf

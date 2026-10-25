@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating mine_bot_description.egg-info
+writing mine_bot_description.egg-info/PKG-INFO
+writing dependency_links to mine_bot_description.egg-info/dependency_links.txt
+writing requirements to mine_bot_description.egg-info/requires.txt
+writing top-level names to mine_bot_description.egg-info/top_level.txt
+writing manifest file 'mine_bot_description.egg-info/SOURCES.txt'
+reading manifest file 'mine_bot_description.egg-info/SOURCES.txt'
+writing manifest file 'mine_bot_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/firas/mine_ws/install/mine_bot_description/lib/python3.12/site-packages/mine-bot-description.egg-link (link to .)
+
+Installed /home/firas/mine_ws/build/mine_bot_description
+running symlink_data
+creating /home/firas/mine_ws/install/mine_bot_description/share/ament_index
+creating /home/firas/mine_ws/install/mine_bot_description/share/ament_index/resource_index
+creating /home/firas/mine_ws/install/mine_bot_description/share/ament_index/resource_index/packages
+symbolically linking /home/firas/mine_ws/build/mine_bot_description/resource/mine_bot_description -> /home/firas/mine_ws/install/mine_bot_description/share/ament_index/resource_index/packages
+symbolically linking /home/firas/mine_ws/build/mine_bot_description/package.xml -> /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description
+creating /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/urdf
+symbolically linking /home/firas/mine_ws/build/mine_bot_description/urdf/mine_bot.urdf -> /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/urdf
+creating /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/launch
+symbolically linking /home/firas/mine_ws/build/mine_bot_description/launch/sim.launch.py -> /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/launch
+creating /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/worlds
+creating /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/config

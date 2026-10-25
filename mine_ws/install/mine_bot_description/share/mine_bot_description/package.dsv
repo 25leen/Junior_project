@@ -1,0 +1,9 @@
+source;share/mine_bot_description/hook/pythonpath.ps1
+source;share/mine_bot_description/hook/pythonpath.dsv
+source;share/mine_bot_description/hook/pythonpath.sh
+source;share/mine_bot_description/hook/ament_prefix_path.ps1
+source;share/mine_bot_description/hook/ament_prefix_path.dsv
+source;share/mine_bot_description/hook/ament_prefix_path.sh
+source;../../build/mine_bot_description/share/mine_bot_description/hook/pythonpath_develop.ps1
+source;../../build/mine_bot_description/share/mine_bot_description/hook/pythonpath_develop.dsv
+source;../../build/mine_bot_description/share/mine_bot_description/hook/pythonpath_develop.sh

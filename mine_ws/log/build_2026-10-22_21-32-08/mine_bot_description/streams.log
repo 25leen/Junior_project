@@ -1,0 +1,28 @@
+[0.637s] Invoking command in '/home/firas/mine_ws/build/mine_bot_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/firas/mine_ws/build/mine_bot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/firas/mine_ws/install/mine_bot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/firas/mine_ws/build/mine_bot_description/build --no-deps symlink_data
+[0.769s] running develop
+[0.837s] running egg_info
+[0.837s] creating mine_bot_description.egg-info
+[0.844s] writing mine_bot_description.egg-info/PKG-INFO
+[0.844s] writing dependency_links to mine_bot_description.egg-info/dependency_links.txt
+[0.844s] writing requirements to mine_bot_description.egg-info/requires.txt
+[0.844s] writing top-level names to mine_bot_description.egg-info/top_level.txt
+[0.844s] writing manifest file 'mine_bot_description.egg-info/SOURCES.txt'
+[0.858s] reading manifest file 'mine_bot_description.egg-info/SOURCES.txt'
+[0.858s] writing manifest file 'mine_bot_description.egg-info/SOURCES.txt'
+[0.865s] running build_ext
+[0.865s] Creating /home/firas/mine_ws/install/mine_bot_description/lib/python3.12/site-packages/mine-bot-description.egg-link (link to .)
+[0.865s] 
+[0.865s] Installed /home/firas/mine_ws/build/mine_bot_description
+[0.866s] running symlink_data
+[0.866s] creating /home/firas/mine_ws/install/mine_bot_description/share/ament_index
+[0.866s] creating /home/firas/mine_ws/install/mine_bot_description/share/ament_index/resource_index
+[0.866s] creating /home/firas/mine_ws/install/mine_bot_description/share/ament_index/resource_index/packages
+[0.866s] symbolically linking /home/firas/mine_ws/build/mine_bot_description/resource/mine_bot_description -> /home/firas/mine_ws/install/mine_bot_description/share/ament_index/resource_index/packages
+[0.866s] symbolically linking /home/firas/mine_ws/build/mine_bot_description/package.xml -> /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description
+[0.866s] creating /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/urdf
+[0.866s] symbolically linking /home/firas/mine_ws/build/mine_bot_description/urdf/mine_bot.urdf -> /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/urdf
+[0.866s] creating /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/launch
+[0.866s] symbolically linking /home/firas/mine_ws/build/mine_bot_description/launch/sim.launch.py -> /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/launch
+[0.866s] creating /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/worlds
+[0.866s] creating /home/firas/mine_ws/install/mine_bot_description/share/mine_bot_description/config
+[0.883s] Invoked command in '/home/firas/mine_ws/build/mine_bot_description' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/firas/mine_ws/build/mine_bot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/firas/mine_ws/install/mine_bot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/firas/mine_ws/build/mine_bot_description/build --no-deps symlink_data
